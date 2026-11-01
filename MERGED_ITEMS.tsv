@@ -1,0 +1,333 @@
+source	orig_id	name	decision	reason
+Paradise	14539	Black ele' legs	skip	duplicate name already present
+Paradise	13634	Bandos Shield	add as 13634	kept id; server stats defaulted
+Paradise	15000	Bandos Scimitar	add as 16000	id clash with base item 'Dragon claws'; server stats defaulted
+Paradise	14294	Red chinchompa	add as 14294	kept id; server stats defaulted
+Paradise	6891	Barrows party hat	skip	duplicate name already present
+Paradise	14538	Black ele' shirt	skip	duplicate name already present
+Paradise	7621	Black PartyHat	skip	duplicate name already present
+Paradise	14869	Jester top	skip	same item as base 'Silly jester top' at this id
+Paradise	14740	Quest Cape	skip	duplicate name already present
+Paradise	15714	Summoning Cape(t)	add as 15714	kept id
+Paradise	16	Dragon Defender	skip	duplicate name already present
+Paradise	15	Barrows Defender	skip	duplicate name already present
+Paradise	14870	Jester tights	skip	same item as base 'Silly jester tights' at this id
+Paradise	14871	Jester boots	skip	same item as base 'Silly jester boots' at this id
+Paradise	14872	Jester stick	add as 14872	kept id; server stats defaulted
+Paradise	14868	Jester hat	skip	duplicate name already present
+Paradise	15309	Void Mage Hood	skip	same item as base 'Void mage helm' at this id
+Paradise	15310	Void Ranger Helm	skip	duplicate name already present
+Paradise	15311	Void Melee Helm	skip	duplicate name already present
+Paradise	14635	Fighter hat	skip	duplicate name already present
+Paradise	14637	Ranger hat	skip	duplicate name already present
+Paradise	14634	Healer hat	skip	duplicate name already present
+Paradise	14539	Black ele' legs	skip	duplicate name already present
+Paradise	14563	Zamorak cloak	skip	duplicate name already present
+Paradise	14561	Saradomin cloak	skip	duplicate name already present
+Paradise	14562	Guthix cloak	skip	duplicate name already present
+Paradise	14510	3rd age amulet	skip	duplicate name already present
+Paradise	14538	Black ele' shirt	skip	duplicate name already present
+Paradise	14651	Granite body	skip	duplicate name already present
+Paradise	14668	Granite helm	add as 14668	kept id
+Paradise	13640	Black mask	add as 13640	kept id
+Paradise	13800	Rune c'bow	skip	duplicate name already present
+Paradise	13799	Adamantite c'bow	add as 13799	kept id; server stats defaulted
+Paradise	10007	Dragon platebody	skip	duplicate name already present
+Paradise	10011	Torn Dragon Shield	add as 10011	kept id; server stats defaulted
+Paradise	8002	Dragon claws	skip	duplicate name already present
+Paradise	13798	Mith c'bow	add as 13798	kept id; server stats defaulted
+Paradise	13797	Steel c'bow	add as 13797	kept id; server stats defaulted
+Paradise	15602	Dragon Cape	add as 15602	kept id
+Paradise	15603	Beautiful Cape	add as 15603	kept id
+Paradise	1283	Double Dildo	add as 16001	id clash with base item 'Black sword'
+Paradise	11329	Car	add as 11329	kept id; server stats defaulted
+Paradise	11328	Halo Helmet	add as 11328	kept id; server stats defaulted
+Paradise	1702	Legionary Godsword	add as 16002	id clash with base item 'Dragonstoneamulet'; server stats defaulted
+Paradise	11034	Ghost Claws	add as 11034	kept id; server stats defaulted
+Paradise	15064	Antarix's PlateLegs	add as 15064	kept id; server stats defaulted
+Paradise	9114	Briefcase	add as 9114	kept id; server stats defaulted
+Paradise	15960	Candy Cane	add as 15960	kept id; server stats defaulted
+Paradise	15403	Balmung	add as 15403	kept id; server stats defaulted
+Paradise	13796	Iron c'bow	add as 13796	kept id; server stats defaulted
+Paradise	13795	Blurite c'bow	add as 13795	kept id; server stats defaulted
+Paradise	13794	Bronze c'bow	add as 13794	kept id; server stats defaulted
+Paradise	2550	Ring Of Recoil	skip	duplicate name already present
+Paradise	2566	Ring of dueling(1)	skip	duplicate name already present
+Paradise	2564	Ring of dueling(2)	skip	duplicate name already present
+Paradise	2562	Ring of dueling(3)	skip	duplicate name already present
+Paradise	2560	Ring of dueling(4)	skip	duplicate name already present
+Paradise	2558	Ring of dueling(5)	skip	duplicate name already present
+Paradise	2556	Ring of dueling(6)	skip	duplicate name already present
+Paradise	2554	Ring of dueling(7)	skip	duplicate name already present
+Paradise	2552	Ring of dueling(8)	skip	duplicate name already present
+Paradise	2572	Ring of wealth	skip	duplicate name already present
+Paradise	2570	Ring of life	skip	duplicate name already present
+Paradise	2568	Ring Of Forging	skip	duplicate name already present
+Paradise	6583	Ring Of stone	skip	duplicate name already present
+Paradise	1635	Gold Ring	skip	duplicate name already present
+Paradise	1639	Emerald Ring	skip	duplicate name already present
+Paradise	1637	1Hit Ring	add as 16003	id clash with base item 'Sapphire ring'; server stats defaulted
+Paradise	1641	Ruby Ring	skip	duplicate name already present
+Paradise	1643	Diamond Ring	skip	duplicate name already present
+Paradise	1645	Dragonstone Ring	skip	duplicate name already present
+Paradise	6564	Onyx ring	skip	duplicate name already present
+Paradise	773	InfHealth Ring	add as 16004	id clash with base item ''perfect' ring'; server stats defaulted
+Paradise	13591	Void Knight Top	skip	duplicate name already present
+Paradise	13592	Void Knight Robe	skip	duplicate name already present
+Paradise	13594	Void Knight Gloves	skip	duplicate name already present
+Paradise	13593	Void Knight Mace	skip	duplicate name already present
+Paradise	15187	Draconic Visage	skip	duplicate name already present
+Paradise	15185	DragonFire Shield	skip	duplicate name already present
+Paradise	14073	Attack Cape	skip	duplicate name already present
+Paradise	14074	Attack Cape(t)	skip	duplicate name already present
+Paradise	6570	Fire Cape	skip	duplicate name already present
+Paradise	15334	Bandos godsword	skip	duplicate name already present
+Paradise	3757	Ultimanum Godsword	add as 16005	id clash with base item 'Fremennik blade'; server stats defaulted
+Paradise	15350	Bandos Boots	skip	duplicate name already present
+Paradise	15335	Saradomin Godsword	skip	duplicate name already present
+Paradise	14075	Attack Hood	skip	duplicate name already present
+Paradise	15150	Summoning Cape	skip	duplicate name already present
+Paradise	14076	Strength Cape	skip	duplicate name already present
+Paradise	14077	Strength Cape(t)	skip	duplicate name already present
+Paradise	14078	Strength Hood	skip	duplicate name already present
+Paradise	14079	Defence Cape	skip	duplicate name already present
+Paradise	14080	Defence Cape(t)	skip	duplicate name already present
+Paradise	14081	Defence Hood	skip	duplicate name already present
+Paradise	14082	Ranging Cape	skip	duplicate name already present
+Paradise	14083	Ranging Cape(t)	skip	duplicate name already present
+Paradise	14084	Range Hood	skip	duplicate name already present
+Paradise	14085	Prayer Cape	skip	duplicate name already present
+Paradise	14086	Prayer Cape(t)	skip	duplicate name already present
+Paradise	14087	Prayer Hood	skip	duplicate name already present
+Paradise	14088	Magic Cape	skip	duplicate name already present
+Paradise	14089	Magic Cape(t)	skip	duplicate name already present
+Paradise	14090	Magic Hood	skip	duplicate name already present
+Paradise	14130	Firemaking Cape	skip	duplicate name already present
+Paradise	14131	Firemaking Cape(t)	skip	duplicate name already present
+Paradise	14132	FireMaking Hood	skip	duplicate name already present
+Paradise	14091	RuneCrafting Cape	skip	duplicate name already present
+Paradise	14092	RuneCrafting Cape(t)	skip	duplicate name already present
+Paradise	14093	RuneCrafting Hood	skip	duplicate name already present
+Paradise	14094	Hitpoint Cape	skip	same item as base 'Hitpoints cape' at this id
+Paradise	14095	Hitpoint Cape(t)	skip	same item as base 'Hitpoints cape(t)' at this id
+Paradise	14096	Hitpoint Hood	skip	same item as base 'Hitpoints hood' at this id
+Paradise	14097	Agility Cape	skip	duplicate name already present
+Paradise	14098	Agility Cape(t)	skip	duplicate name already present
+Paradise	14099	Agility Hood	skip	duplicate name already present
+Paradise	14100	Herblore Cape	skip	duplicate name already present
+Paradise	14101	Herblore Cape(t)	skip	duplicate name already present
+Paradise	14102	Herblore Hood	skip	duplicate name already present
+Paradise	14103	Thieving Cape	skip	duplicate name already present
+Paradise	14104	Thieving Cape(t)	skip	duplicate name already present
+Paradise	14105	Thieving Hood	skip	duplicate name already present
+Paradise	14106	Crafting Cape	skip	duplicate name already present
+Paradise	14107	Crafting Cape(t)	skip	duplicate name already present
+Paradise	14108	Crafting Hood	skip	duplicate name already present
+Paradise	14109	Fletching Cape(t)	skip	duplicate name already present
+Paradise	14110	Fletching Cape	skip	duplicate name already present
+Paradise	14111	Fletching Hood	skip	duplicate name already present
+Paradise	14112	Slayer Cape	skip	duplicate name already present
+Paradise	14113	Slayer Cape	skip	duplicate name already present
+Paradise	14114	Slayer Hood	skip	duplicate name already present
+Paradise	14118	Mining Cape	skip	duplicate name already present
+Paradise	14119	Mining Cape(t)	skip	duplicate name already present
+Paradise	14120	Mining Hood	skip	duplicate name already present
+Paradise	14121	Smithing Cape	skip	duplicate name already present
+Paradise	14122	Smithing Cape(t)	skip	duplicate name already present
+Paradise	14123	Smithing Hood	skip	duplicate name already present
+Paradise	14124	Fishing Cape	skip	duplicate name already present
+Paradise	14125	Fishing Cape(t)	skip	duplicate name already present
+Paradise	14126	Fishing Hood	skip	duplicate name already present
+Paradise	14127	Cooking Cape	skip	duplicate name already present
+Paradise	14128	Cooking Cape(t)	skip	duplicate name already present
+Paradise	14129	Cooking Hood	skip	duplicate name already present
+Paradise	14133	Woodcutting Cape	skip	duplicate name already present
+Paradise	14134	Woodcutting Cape	skip	duplicate name already present
+Paradise	14135	Woodcutting Hood	skip	duplicate name already present
+Paradise	14136	Farming Cape	skip	duplicate name already present
+Paradise	14137	Farming Cape(t)	skip	duplicate name already present
+Paradise	14138	Farming Hood	skip	duplicate name already present
+Paradise	14139	Quest Cape	skip	duplicate name already present
+Paradise	14140	Quest Hood	skip	duplicate name already present
+Paradise	6570		skip	no name in block
+Paradise	15346	Armadyl chestplate	skip	duplicate name already present
+Paradise	15345	Armadyl Helm	skip	same item as base 'Armadyl helmet' at this id
+Paradise	13595	Bronze Defender	skip	duplicate name already present
+Paradise	13596	Iron Defender	skip	duplicate name already present
+Paradise	13597	Steel Defender	skip	duplicate name already present
+Paradise	13598	Black Defender	skip	duplicate name already present
+Paradise	13599	Mithril Defender	skip	duplicate name already present
+Paradise	13600	Adamant Defender	skip	duplicate name already present
+Paradise	13601	Rune Defender	skip	duplicate name already present
+Paradise	14915	Barrelchest Anchor	skip	duplicate name already present
+Paradise	15195	Dragon Full Helm	skip	duplicate name already present
+Paradise	10109	Orange Party Hat	skip	duplicate name already present
+Paradise	10110	Gold Party Hat	skip	duplicate name already present
+Paradise	10111	Grey Party Hat	skip	duplicate name already present
+Paradise	10112	Bronze Party Hat	skip	duplicate name already present
+Paradise	10113	Steel Party Hat	skip	duplicate name already present
+Paradise	10114	Mithril Party Hat	skip	duplicate name already present
+Paradise	10115	Adamant Party Hat	skip	duplicate name already present
+Paradise	10116	Rune Party Hat	skip	duplicate name already present
+Paradise	10117	Dragon Party Hat	skip	duplicate name already present
+Paradise	10118	Barrows Party Hat	skip	duplicate name already present
+Paradise	10090	Purple santa hat	skip	duplicate name already present
+Paradise	10091	Black santa hat	skip	duplicate name already present
+Paradise	10092	Mithril santa hat	skip	duplicate name already present
+Paradise	10093	Rune santa hat	skip	duplicate name already present
+Paradise	10094	Dragon santa hat	skip	duplicate name already present
+Paradise	10095	Addy santa hat	skip	duplicate name already present
+Paradise	10096	Gold santa hat	skip	duplicate name already present
+Paradise	10097	Barrows santa hat	skip	duplicate name already present
+Paradise	10098	Blue santa hat	skip	duplicate name already present
+Paradise	10099	Purple santa hat	skip	duplicate name already present
+Paradise	10100	Orange Whip	skip	duplicate name already present
+Paradise	10101	Purple Whip	skip	duplicate name already present
+Paradise	10102	Unknown Whip	skip	same item as base 'Unknown Color Whip' at this id
+Paradise	10103	Red Whip	skip	duplicate name already present
+Paradise	10104	Blue Whip	skip	duplicate name already present
+Paradise	10105	Barrows Whip	skip	duplicate name already present
+Paradise	10106	Gold Whip	skip	duplicate name already present
+Paradise	10107	White Whip	skip	duplicate name already present
+Paradise	15343	Lava Helm	skip	duplicate name already present
+Paradise	15107	Ladies Platelegs	skip	duplicate name already present
+Paradise	15339	Lava Platelegs	skip	duplicate name already present
+Paradise	15109	Ladies Helm	skip	duplicate name already present
+Paradise	15342	Lava Gauntlets	skip	duplicate name already present
+Paradise	15215	Draconic Top	skip	duplicate name already present
+Paradise	15216	Draconic Bottoms	skip	duplicate name already present
+Paradise	15217	Draconic Hood	skip	duplicate name already present
+Paradise	15106	Ladies Gauntlets	skip	duplicate name already present
+Paradise	15118	Demon tail	skip	duplicate name already present
+Paradise	15119	Demon Horns #1	skip	duplicate name already present
+Paradise	15120	Demon Horns #2	skip	duplicate name already present
+Paradise	15121	Demon Head	skip	duplicate name already present
+Paradise	15122	Demon Feet	skip	duplicate name already present
+Paradise	15123	Demon Hands	skip	duplicate name already present
+Paradise	15338	Lava Chainmail	skip	duplicate name already present
+Paradise	15150	Summoning Cape	skip	duplicate name already present
+Paradise	15105	Ladies Chainmail	skip	duplicate name already present
+Paradise	15340	Lava shield	skip	duplicate name already present
+Paradise	15104	Ladies shield	skip	duplicate name already present
+Paradise	15341	Lava Boots	skip	duplicate name already present
+Paradise	15103	Ladies Boots	skip	duplicate name already present
+Paradise	15337	Lava Blade	skip	duplicate name already present
+Paradise	15102	Ladies Blade	skip	duplicate name already present
+Paradise	9109	Blue Crystal shield	skip	duplicate name already present
+Paradise	15203	Blue Crystal shield	skip	duplicate name already present
+Paradise	9115	Black Crystal shield	skip	duplicate name already present
+Paradise	9117	Black h'ween Mask	skip	duplicate name already present
+Paradise	9118	Yellow h'ween Mask	skip	duplicate name already present
+3Scape	15066	Admin Platebody	skip	duplicate name already present
+3Scape	15067	Admin Platelegs	skip	duplicate name already present
+3Scape	15068	Admin Crown	skip	duplicate name already present
+3Scape	15069	G-mod Crown	skip	duplicate name already present
+3Scape	15070	Mod Crown	skip	duplicate name already present
+3Scape	15071	SB-mod Crown	skip	duplicate name already present
+3Scape	15072	Admin Boots	skip	duplicate name already present
+3Scape	5	Updates manual	add as 16006	id clash with base item 'Instruction manual'; server stats defaulted
+3Scape	15073	Admin Kiteshield	skip	duplicate name already present
+3Scape	9000	Home teleport	skip	duplicate name already present
+3Scape	9001	Miscellania teleport	skip	duplicate name already present
+3Scape	9002	TzHaar teleport	skip	duplicate name already present
+3Scape	9003	Jogre grounds teleport	skip	duplicate name already present
+3Scape	9004	Training grounds teleport	add as 16007	id clash with base item 'Monkey Bag'; server stats defaulted
+3Scape	15075	Mod Platebody	skip	duplicate name already present
+3Scape	15076	Mod Platelegs	skip	duplicate name already present
+3Scape	15077	Mod Boots	skip	duplicate name already present
+3Scape	15078	Mod Kiteshield	skip	duplicate name already present
+3Scape	15000	Dragon claws	skip	duplicate name already present
+3Scape	15080	Admin Plateskirt	skip	duplicate name already present
+3Scape	15081	Mod Plateskirt	skip	duplicate name already present
+3Scape	15082	Owners Platebody	skip	duplicate name already present
+3Scape	15083	Owners Platelegs	skip	duplicate name already present
+3Scape	15084	Owners Boots	skip	duplicate name already present
+3Scape	15085	Owners Kiteshield	skip	duplicate name already present
+3Scape	15086	Owners Crown	skip	duplicate name already present
+3Scape	14073	Attack cape	skip	duplicate name already present
+3Scape	14074	Attack cape(t)	skip	duplicate name already present
+3Scape	6570	Fire cape	skip	duplicate name already present
+3Scape	6570	Fire cape	skip	duplicate name already present
+3Scape	15334	Bandos godsword	skip	duplicate name already present
+3Scape	15832	Saradomin sword	skip	duplicate name already present
+3Scape	17000	Home teleport	skip	duplicate name already present
+3Scape	17001	Home teleport	skip	duplicate name already present
+3Scape	17002	Misc. teleport	add as 17002	kept id; server stats defaulted
+3Scape	17003	Cave slugs teleport	add as 17003	kept id; server stats defaulted
+3Scape	17004	Home teleport	skip	duplicate name already present
+3Scape	15350	Bandos boots	skip	duplicate name already present
+3Scape	15335	Saradomin godsword	skip	duplicate name already present
+3Scape	14075	Attack hood	skip	duplicate name already present
+3Scape	14076	Strength cape	skip	duplicate name already present
+3Scape	14077	Strength cape(t)	skip	duplicate name already present
+3Scape	14078	Strength hood	skip	duplicate name already present
+3Scape	14079	Defence cape	skip	duplicate name already present
+3Scape	14080	Defence cape(t)	skip	duplicate name already present
+3Scape	14081	Defence hood	skip	duplicate name already present
+3Scape	14082	Ranging cape	skip	duplicate name already present
+3Scape	14083	Ranging cape(t)	skip	duplicate name already present
+3Scape	14084	Range hood	skip	duplicate name already present
+3Scape	14085	Prayer cape	skip	duplicate name already present
+3Scape	14086	Prayer cape(t)	skip	duplicate name already present
+3Scape	14087	Prayer hood	skip	duplicate name already present
+3Scape	14088	Magic cape	skip	duplicate name already present
+3Scape	14089	Magic cape(t)	skip	duplicate name already present
+3Scape	14090	Magic hood	skip	duplicate name already present
+3Scape	14130	Firemaking cape	skip	duplicate name already present
+3Scape	14131	Firemaking cape(t)	skip	duplicate name already present
+3Scape	14132	Firemaking hood	skip	duplicate name already present
+3Scape	14091	Runecrafting cape	skip	duplicate name already present
+3Scape	14092	Runecrafting cape(t)	skip	duplicate name already present
+3Scape	14093	Runecrafting hood	skip	duplicate name already present
+3Scape	14094	Hitpoints cape	skip	duplicate name already present
+3Scape	14095	Hitpoints cape(t)	skip	duplicate name already present
+3Scape	14096	Hitpoints hood	skip	duplicate name already present
+3Scape	14097	Agility cape	skip	duplicate name already present
+3Scape	14098	Agility cape(t)	skip	duplicate name already present
+3Scape	14099	Agility hood	skip	duplicate name already present
+3Scape	14100	Herblore cape	skip	duplicate name already present
+3Scape	14101	Herblore cape(t)	skip	duplicate name already present
+3Scape	14102	Herblore hood	skip	duplicate name already present
+3Scape	14103	Thieving cape	skip	duplicate name already present
+3Scape	14104	Thieving cape(t)	skip	duplicate name already present
+3Scape	14105	Thieving hood	skip	duplicate name already present
+3Scape	14106	Crafting cape	skip	duplicate name already present
+3Scape	14107	Crafting cape(t)	skip	duplicate name already present
+3Scape	14108	Crafting hood	skip	duplicate name already present
+3Scape	14109	Fletching cape(t)	skip	duplicate name already present
+3Scape	14110	Fletching cape	skip	duplicate name already present
+3Scape	14111	Fletching hood	skip	duplicate name already present
+3Scape	14112	Slayer cape	skip	duplicate name already present
+3Scape	14113	Slayer cape	skip	duplicate name already present
+3Scape	14114	Slayer hood	skip	duplicate name already present
+3Scape	14118	Mining cape	skip	duplicate name already present
+3Scape	14119	Mining cape(t)	skip	duplicate name already present
+3Scape	14120	Mining hood	skip	duplicate name already present
+3Scape	14121	Smithing cape	skip	duplicate name already present
+3Scape	14122	Smithing cape(t)	skip	duplicate name already present
+3Scape	14123	Smithing hood	skip	duplicate name already present
+3Scape	14124	Fishing cape	skip	duplicate name already present
+3Scape	14125	Fishing cape(t)	skip	duplicate name already present
+3Scape	14126	Fishing hood	skip	duplicate name already present
+3Scape	14127	Cooking cape	skip	duplicate name already present
+3Scape	14128	Cooking cape(t)	skip	duplicate name already present
+3Scape	14129	Cooking hood	skip	duplicate name already present
+3Scape	14133	Woodcut. cape	skip	duplicate name already present
+3Scape	14134	Woodcut. cape(t)	skip	duplicate name already present
+3Scape	14135	Woodcut. hood	skip	duplicate name already present
+3Scape	14136	Farming cape	skip	duplicate name already present
+3Scape	14137	Farming cape(t)	skip	duplicate name already present
+3Scape	14138	Farming hood	skip	duplicate name already present
+3Scape	14139	Quest cape	skip	duplicate name already present
+3Scape	14140	Quest hood	skip	duplicate name already present
+3Scape	14115	Const. cape	skip	duplicate name already present
+3Scape	14116	Const. cape(t)	skip	duplicate name already present
+3Scape	14117	Const. hood	skip	duplicate name already present
+3Scape	6570		skip	no name in block
+3Scape	13596	Iron defender	skip	duplicate name already present
+3Scape	13597	Steel defender	skip	duplicate name already present
+3Scape	13598	Black defender	skip	duplicate name already present
+3Scape	13599	Mithril defender	skip	duplicate name already present
+3Scape	13600	Adamantite defender	skip	duplicate name already present
+3Scape	15186	Dragonfire shield	skip	duplicate name already present
+3Scape	15195	Dragon full helm	skip	duplicate name already present

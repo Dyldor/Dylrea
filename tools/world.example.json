@@ -1,0 +1,870 @@
+{
+ "base": "OSRSPSs/servers/GodzHell",
+ "project": ".",
+ "classic": [
+  "OSRSPSs/servers/123 Speced V2",
+  "OSRSPSs/servers/3Scape",
+  "OSRSPSs/servers/CheezScape",
+  "OSRSPSs/servers/Devolution V7",
+  "OSRSPSs/servers/Devolution X",
+  "OSRSPSs/servers/Dunescape",
+  "OSRSPSs/servers/Figmentscape 3",
+  "OSRSPSs/servers/Figmentscape 4.5",
+  "OSRSPSs/servers/Final Devolution 2.7",
+  "OSRSPSs/servers/Fr33Sc4p3 pkz",
+  "OSRSPSs/servers/GodPureage",
+  "OSRSPSs/servers/Godz-pk",
+  "OSRSPSs/servers/GrimmScape",
+  "OSRSPSs/servers/Paradise",
+  "OSRSPSs/servers/PhoneScape",
+  "OSRSPSs/servers/Pimpscape",
+  "OSRSPSs/servers/Project16 v.6",
+  "OSRSPSs/servers/RealisticScape",
+  "OSRSPSs/servers/TestScape",
+  "OSRSPSs/servers/Tirex blank",
+  "OSRSPSs/servers/Ultimate PK",
+  "OSRSPSs/servers/XplicitScape PK",
+  "OSRSPSs/servers/l337pkz"
+ ],
+ "pi": [
+  {
+   "name": "Project Insanity",
+   "root": "donors/omy96_project-insanity"
+  },
+  {
+   "name": "Power-PS",
+   "root": "donors/Bananastreet_Power-PS"
+  },
+  {
+   "name": "Project Benelux",
+   "root": "donors/DarkSlayerz_ProjectBeneluxServer"
+  },
+  {
+   "name": "Warlords of Hell",
+   "root": "donors/WarlordsofHell_Server"
+  },
+  {
+   "name": "Gabblab",
+   "root": "donors/Gabblab_Gabblab"
+  }
+ ],
+ "teleports_json": "tools/teles.json",
+ "new_item_id_start": 16000,
+ "customs": {
+  "donor_clients": [
+   "OSRSPSs/servers/Paradise/Client/Class8.java",
+   "OSRSPSs/servers/3Scape/Client/Class8.java"
+  ],
+  "donor_item_cfgs": [
+   "OSRSPSs/servers/Paradise/Server/config/item.cfg",
+   "OSRSPSs/servers/Devolution X/Server/config/item.cfg",
+   "OSRSPSs/servers/Tirex blank/Server/item.cfg",
+   "OSRSPSs/servers/GodPureage/Server/item.cfg",
+   "OSRSPSs/servers/123 Speced V2/Server/item.cfg",
+   "OSRSPSs/servers/3Scape/Server/CFG/Item.cfg",
+   "OSRSPSs/servers/l337pkz/Server/item.cfg",
+   "OSRSPSs/servers/CheezScape/Server/CFG/item.cfg",
+   "OSRSPSs/servers/XplicitScape PK/Server/config/item.cfg"
+  ]
+ },
+ "market": {
+  "x1": 3334,
+  "x2": 3368,
+  "y1": 3330,
+  "y2": 3348,
+  "tele_x": 3351,
+  "tele_y": 3343,
+  "keeper_npcs": [
+   524,
+   526,
+   528
+  ]
+ },
+ "mystery_box_item": 6199,
+ "boss_box_drops": [
+  [
+   50,
+   20
+  ],
+  [
+   1158,
+   15
+  ],
+  [
+   1160,
+   15
+  ],
+  [
+   795,
+   25
+  ],
+  [
+   2745,
+   5
+  ],
+  [
+   3200,
+   20
+  ],
+  [
+   2881,
+   30
+  ],
+  [
+   2882,
+   30
+  ],
+  [
+   2883,
+   30
+  ]
+ ],
+ "global_box_drop": {
+  "min_combat": 50,
+  "chance": 300
+ },
+ "theme": {
+  "tier_rules": [
+   [
+    "utility",
+    "teleport|manual|monkey bag"
+   ],
+   [
+    "staff",
+    "admin|\\bmod\\b|owner|antarix|1hit|infhealth"
+   ],
+   [
+    "cosmetic",
+    "party ?hat|santa|h'ween|jester|candy|^car$|briefcase|dildo|halo|2008"
+   ],
+   [
+    "t5",
+    "lava|demon|ivandis|ladies|draconic|ultimanum|legionary|balmung|ghost|beautiful|dragon cape|ice cape|dragon whip"
+   ],
+   [
+    "t4",
+    "dragon|barrows|3rd age|armadyl|bandos|saradomin|zamorak|guthix|godsword|gilded|crystal|void|fire|summoning|quest|cape|hood|whip|granite"
+   ],
+   [
+    "t3",
+    "rune|black mask|healer|fighter|ranger|chinchompa"
+   ],
+   [
+    "t2",
+    "adamant|addy|mithril|mith\\b|mith "
+   ],
+   [
+    "t1",
+    "bronze|iron|steel|black|blurite|white|yellow|grey|green"
+   ]
+  ],
+  "default_tier": "t3",
+  "tier_mult": {
+   "cosmetic": 0.2,
+   "t1": 0.35,
+   "t2": 0.6,
+   "t3": 1.0,
+   "t4": 1.3,
+   "t5": 1.6,
+   "staff": 3.0
+  },
+  "tier_value": {
+   "cosmetic": 250000,
+   "t1": 5000,
+   "t2": 25000,
+   "t3": 100000,
+   "t4": 500000,
+   "t5": 2000000,
+   "staff": 10000000
+  },
+  "box_weight": {
+   "cosmetic": 30,
+   "t1": 25,
+   "t2": 20,
+   "t3": 15,
+   "t4": 8,
+   "t5": 3
+  },
+  "ref": {
+   "head": [
+    0,
+    0,
+    0,
+    -6,
+    -2,
+    30,
+    32,
+    27,
+    -1,
+    30,
+    0,
+    0
+   ],
+   "body": [
+    0,
+    0,
+    0,
+    -30,
+    -10,
+    82,
+    80,
+    72,
+    -6,
+    80,
+    0,
+    0
+   ],
+   "legs": [
+    0,
+    0,
+    0,
+    -21,
+    -7,
+    51,
+    49,
+    47,
+    -4,
+    49,
+    0,
+    0
+   ],
+   "shield": [
+    0,
+    0,
+    0,
+    -8,
+    -2,
+    44,
+    48,
+    46,
+    -1,
+    46,
+    0,
+    0
+   ],
+   "feet": [
+    0,
+    0,
+    0,
+    -3,
+    -1,
+    12,
+    13,
+    14,
+    0,
+    0,
+    2,
+    0
+   ],
+   "hands": [
+    6,
+    6,
+    6,
+    4,
+    4,
+    6,
+    6,
+    6,
+    4,
+    4,
+    6,
+    0
+   ],
+   "cape": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    7,
+    7,
+    7,
+    7,
+    7,
+    3,
+    2
+   ],
+   "ring": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    0
+   ],
+   "amulet": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    3,
+    3,
+    3,
+    3,
+    3,
+    6,
+    3
+   ],
+   "slash": [
+    7,
+    55,
+    -2,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    54,
+    0
+   ],
+   "whip": [
+    0,
+    62,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    62,
+    0
+   ],
+   "claws": [
+    32,
+    44,
+    -4,
+    0,
+    0,
+    10,
+    20,
+    5,
+    0,
+    0,
+    43,
+    0
+   ],
+   "crush": [
+    31,
+    -2,
+    46,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    42,
+    4
+   ],
+   "ranged": [
+    0,
+    0,
+    0,
+    0,
+    53,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "magic": [
+    8,
+    -1,
+    31,
+    12,
+    0,
+    2,
+    3,
+    1,
+    12,
+    0,
+    38,
+    0
+   ],
+   "twohand": [
+    0,
+    102,
+    62,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    102,
+    6
+   ]
+  }
+ },
+ "max_imported_shops": 60,
+ "shop_min_new_items": 4,
+ "cluster_min_combat": 10,
+ "cluster_min_spawns": 8,
+ "mystery_box_price": 1000000,
+ "pi_cache": "donors/omy96_project-insanity/Client/cache",
+ "pi_item_cfg": "donors/omy96_project-insanity/Server/data/cfg/item.cfg",
+ "cosmetic_regex": "party ?hat|santa|h'ween|mask$|jester|boater|beret|headband|cavalier|tricorn|bandana|naval|navy|camo|bobble|bomber|lederhosen|elegant|princess|robin hood|tan cavalier|hard hat|builder|lumberjack|team-\\d|gnome scarf|goggles|^car$|briefcase|dildo|candy|halo",
+ "tier_overrides": [
+  [
+   "armadyl godsword|bandos godsword|saradomin godsword|zamorak godsword|zamorakian spear|armadyl (helmet|chestplate|plateskirt)|bandos (chestplate|tassets|boots)|saradomin sword|dragon claws",
+   6
+  ],
+  [
+   "3rd age",
+   7
+  ],
+  [
+   "dragon full helm|dragon boots|dragonfire shield|dark bow|infinity",
+   5
+  ],
+  [
+   "admin|owner|\\bmod\\b|1hit|infhealth",
+   10
+  ],
+  [
+   "demon (tail|horns|head|feet|hands)|ultimanum|legionary|balmung|ghost claws",
+   9
+  ],
+  [
+   "lava|ladies|ivandis|draconic|beautiful cape|dragon cape|ice cape",
+   8
+  ],
+  [
+   "dragon whip",
+   9
+  ],
+  [
+   "barrows whip",
+   5
+  ]
+ ],
+ "tier_value": {
+  "cosmetic": 25000000,
+  "1": 5000,
+  "2": 20000,
+  "3": 60000,
+  "4": 150000,
+  "5": 400000,
+  "6": 1000000,
+  "7": 2000000,
+  "8": 4000000,
+  "9": 8000000,
+  "10": 15000000
+ },
+ "drops": {
+  "boss_gear": 3,
+  "boss_jackpot2": 40,
+  "boss_jackpot3": 250,
+  "boss_box": 10,
+  "guard_gear": 4,
+  "guard_jackpot2": 60,
+  "mob_gear": 40,
+  "mob_jackpot2": 400,
+  "event_cosmetic": 20
+ },
+ "box_tier_weight": {
+  "cosmetic": 1,
+  "1": 24,
+  "2": 20,
+  "3": 16,
+  "4": 12,
+  "5": 9,
+  "6": 7,
+  "7": 5,
+  "8": 3,
+  "9": 2,
+  "10": 1
+ },
+ "tier_zone_clear_radius": 18,
+ "mobs_per_type": 5,
+ "generated_items": [
+  {
+   "name": "Rainbow claws",
+   "examine": "Claws that shimmer with every colour.",
+   "from": 3101,
+   "tier": 8,
+   "slot": "weapon",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow whip",
+   "examine": "A whip woven from light.",
+   "from": 4151,
+   "tier": 8,
+   "slot": "weapon",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow godsword",
+   "examine": "The blade of the Rainbow Dragon.",
+   "from_name": "Armadyl godsword",
+   "tier": 8,
+   "slot": "weapon",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow full helm",
+   "examine": "Prismatic plate.",
+   "tier": 8,
+   "slot": "head",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ],
+   "from": 1163
+  },
+  {
+   "name": "Rainbow platebody",
+   "examine": "Prismatic plate.",
+   "from": 1127,
+   "tier": 8,
+   "slot": "body",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow platelegs",
+   "examine": "Prismatic plate.",
+   "from": 1079,
+   "tier": 8,
+   "slot": "legs",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow kiteshield",
+   "examine": "Prismatic plate.",
+   "from": 1201,
+   "tier": 8,
+   "slot": "shield",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow boots",
+   "examine": "Prismatic boots.",
+   "from_name": "Dragon boots",
+   "tier": 8,
+   "slot": "feet",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow gloves",
+   "examine": "Prismatic gloves.",
+   "from": 7462,
+   "tier": 8,
+   "slot": "hands",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Rainbow cape",
+   "examine": "Woven from the Rainbow Dragon's wings.",
+   "from": 6570,
+   "tier": 8,
+   "slot": "cape",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Halogen blade",
+   "examine": "Glows with a harsh white light.",
+   "from": 1305,
+   "tier": 7,
+   "slot": "weapon",
+   "palette": [
+    32,
+    7,
+    40
+   ]
+  },
+  {
+   "name": "Halogen helm",
+   "examine": "Glows with a harsh white light.",
+   "from": 1163,
+   "tier": 7,
+   "slot": "head",
+   "palette": [
+    32,
+    7,
+    40
+   ]
+  },
+  {
+   "name": "Plasma bow",
+   "examine": "Fires bolts of pure plasma.",
+   "from_name": "Dark bow",
+   "tier": 7,
+   "slot": "weapon",
+   "palette": [
+    50,
+    7,
+    20
+   ]
+  },
+  {
+   "name": "Plasma crossbow",
+   "examine": "Fires bolts of pure plasma.",
+   "from_name": "Rune c'bow",
+   "tier": 6,
+   "slot": "weapon",
+   "palette": [
+    50,
+    7,
+    20
+   ]
+  },
+  {
+   "name": "Prism amulet",
+   "examine": "Light splits through it.",
+   "from": 1704,
+   "tier": 7,
+   "slot": "amulet",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  },
+  {
+   "name": "Prism ring",
+   "examine": "Light splits through it.",
+   "from": 6737,
+   "tier": 7,
+   "slot": "ring",
+   "palette": [
+    "rainbow",
+    7,
+    10
+   ]
+  }
+ ],
+ "starting_gear": {
+  "str": 56,
+  "def": 218
+ },
+ "pi_models": "donors/omy96_project-insanity/Client/cache",
+ "starting_damage": 40,
+ "starting_def": 218,
+ "event_hp": 6000,
+ "home": [
+  3093,
+  3491
+ ],
+ "mobs_per_group": 4,
+ "event_areas": [
+  [
+   3300,
+   3240,
+   "Duel Arena Fields"
+  ],
+  [
+   2965,
+   3380,
+   "Falador"
+  ],
+  [
+   3210,
+   3424,
+   "Varrock"
+  ],
+  [
+   2610,
+   3090,
+   "Yanille"
+  ]
+ ],
+ "special_items": [
+  {
+   "name": "Rainbow claws",
+   "examine": "Claws that shimmer with every colour.",
+   "from": 3101,
+   "tier": 10,
+   "slot": "weapon",
+   "style": "melee",
+   "scheme": {
+    "type": "gradient",
+    "hues": [
+     0,
+     5,
+     9,
+     14,
+     22,
+     32,
+     42,
+     50,
+     58
+    ],
+    "sat": 7,
+    "light": 10
+   }
+  },
+  {
+   "name": "Halogen blade",
+   "examine": "Glows with a harsh white light.",
+   "from": 1305,
+   "tier": 9,
+   "slot": "weapon",
+   "style": "melee",
+   "scheme": {
+    "type": "bands",
+    "colors": [
+     [
+      32,
+      7
+     ],
+     [
+      0,
+      0
+     ]
+    ],
+    "bands": 5,
+    "band_light": [
+     30,
+     50
+    ]
+   }
+  },
+  {
+   "name": "Plasma bow",
+   "examine": "Fires bolts of pure plasma.",
+   "from_name": "Dark bow",
+   "tier": 9,
+   "slot": "weapon2h",
+   "style": "ranged",
+   "scheme": {
+    "type": "bands",
+    "colors": [
+     [
+      50,
+      7
+     ],
+     [
+      32,
+      7
+     ]
+    ],
+    "bands": 4,
+    "band_light": [
+     10,
+     20
+    ]
+   }
+  },
+  {
+   "name": "Plasma crossbow",
+   "examine": "Fires bolts of pure plasma.",
+   "from_name": "Rune c'bow",
+   "tier": 8,
+   "slot": "weapon",
+   "style": "ranged",
+   "scheme": {
+    "type": "bands",
+    "colors": [
+     [
+      50,
+      7
+     ],
+     [
+      32,
+      7
+     ]
+    ],
+    "bands": 4,
+    "band_light": [
+     10,
+     20
+    ]
+   }
+  }
+ ],
+ "import_exclude": "battlestaff|elemental|mud staff|lava staff|steam|staff - pt|heraldic|\\(h\\d\\)|banner",
+ "custom_exclude": "(?!x)x",
+ "cosmetic_power": 1.15,
+ "refill_shops": {
+  "fletch": [
+   882,
+   884,
+   886,
+   888,
+   890,
+   892,
+   314,
+   1777,
+   1511,
+   1521,
+   1519,
+   1517,
+   1515,
+   1513,
+   946
+  ],
+  "rune": "tier1",
+  "gilded": "tablets",
+  "default": "tablets"
+ },
+ "item_line_fixes": [
+  [
+   [
+    "6690",
+    "Saradomin Brew (1)"
+   ],
+   "6692"
+  ],
+  [
+   [
+    "6889",
+    "Mage_Book"
+   ],
+   null
+  ]
+ ]
+}

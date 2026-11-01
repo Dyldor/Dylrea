@@ -1,0 +1,9 @@
+out/
+*.class
+server/characters/*
+server/logs/*
+server/savedgames/*
+server/connectedfrom/*
+server/moreinfo/*
+client/client-console.log
+!**/.keep
